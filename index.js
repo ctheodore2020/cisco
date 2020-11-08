@@ -1,1 +1,1 @@
-console.log("JS is better than python");
+console.log("python is better then JS");
